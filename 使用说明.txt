@@ -1,0 +1,14 @@
+CV零佬的，适配了下V3，致敬零佬
+py文件夹和js文件全部放/yunzai/plugins/example 里面
+
+没库的要安装库  pip list 可查看是否安装
+没装的云崽根目录分别输入 
+pip install pillow
+pip install requests
+pip install python-dateutil
+pip install pytz
+pip install matplotlib
+
+适配的功能有签到 黄历 人生重来 求签 解签 资源在哪里 头像表情包 自动早报 
+
+有问题加群：258623209
